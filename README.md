@@ -70,6 +70,12 @@
 | documentation                                                                | документация                                                                                                                                 |
 | useful                                                                       | полезный                                                                                                                                     |
 | work                                                                         | работа, работать                                                                                                                             |
+| deprecated                                                                   | устаревший                                                                                                                                   |
+| automatic                                                                    | автоматический                                                                                                                               |
+| default                                                                      | по умолчанию                                                                                                                                 |
+| dynamic                                                                      | динамический                                                                                                                                 |
+| invalid                                                                      | недействительный, недопустимый                                                                                                               |
+| hot key                                                                      | горячая клавиша                                                                                                                              |
 
 # Сеть, Интернет
 
@@ -195,9 +201,14 @@
 | key, keyword    | ключ                                                            |
 | value           | значение                                                        |
 | set             | множество                                                       |
+| queue           | очередь                                                         |
 | tuple           | кортеж                                                          |
 | object          | объект                                                          |
 | class           | класс                                                           |
+| public          | публичный (например, публичный метод)                           |
+| private         | приватный (например, приватный метод)                           |
+| protected       | защищённый (например, защищённый метод)                         |
+| static          | статичный (например, статичный метод)                           |
 | function        | функция                                                         |
 | function call   | вызов функции                                                   |
 | parameter       | параметр                                                        |
@@ -234,6 +245,7 @@
 | concurrency     | конкурентность                                                  |
 | parallelism     | параллелизм                                                     |
 | security        | безопасность                                                    |
+| sign            | подписать                                                       |
 
 # Из разработки
 
@@ -259,4 +271,5 @@
 | DRY                         | Don't Repeat Yourself, принцип разработки «не повторяйся»                                                                                                                                                                                                                                                                                                                 |
 | KISS                        | Keep It Simple Stupid, принцип разработки «не переусложняй»                                                                                                                                                                                                                                                                                                               |
 | YAGNI                       | You Aren't Gonna Need It, принцип разработки «вам это не понадобится»                                                                                                                                                                                                                                                                                                     |
+| SOLID                       | набор принципов разработки: SRP (Single Responsibility Principle, принцип единой ответственности), OCP (Open-Close Principle, принцип открытости-закрытости), LSP (Liskov Substitution Principle, принцип подстановки Лисков), ISP (Interface Segregation Principle, принцип разделения интерфейсов), DIP (Dependency Inversion Principle, принцип инверсии зависимостей) |
 | SOLID                       | набор принципов разработки: SRP (Single Responsibility Principle, принцип единой ответственности), OCP (Open-Close Principle, принцип открытости-закрытости), LSP (Liskov Substitution Principle, принцип подстановки Лисков), ISP (Interface Segregation Principle, принцип разделения интерфейсов), DIP (Dependency Inversion Principle, принцип инверсии зависимостей) |
