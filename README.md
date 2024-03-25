@@ -57,7 +57,7 @@
 | middle                                                                       | середина, средний                                                                                                                            |
 | search                                                                       | поиск, искать, найти                                                                                                                         |
 | find                                                                         | искать, найти                                                                                                                                |
-| run, executre                                                                | запустить, выполнить                                                                                                                         |
+| run, execute                                                                 | запустить, выполнить                                                                                                                         |
 | date                                                                         | дата                                                                                                                                         |
 | time                                                                         | время                                                                                                                                        |
 | current                                                                      | текущий (например, _current date_ — текущая дата)                                                                                            |
@@ -122,7 +122,7 @@
 | device                       | устройство         |
 | CPU, Central Processing Unit | процессор          |
 | RAM, Random Access Memory    | оперативная память |
-| dist                         | диск               |
+| disk                         | диск               |
 
 # Пользователи, права
 
