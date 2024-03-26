@@ -210,6 +210,7 @@
 | function call   | вызов функции                                                   |
 | parameter       | параметр                                                        |
 | argument        | аргумент                                                        |
+| property        | свойство                                                        |
 | method          | метод                                                           |
 | module          | модуль                                                          |
 | package         | пакет                                                           |
